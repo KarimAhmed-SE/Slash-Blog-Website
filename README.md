@@ -12,8 +12,11 @@ Installation
 To set up the project locally, follow these steps:
 
 1 - git clone https://github.com/KarimAhmed-SE/Slash-Blog-Website.git
+
 2 - cd client
+
 3 - npm install
+
 4 - npm run dev
 
 
